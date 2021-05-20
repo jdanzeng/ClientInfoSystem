@@ -1,0 +1,14 @@
+C:\Users\DAN\source\repos\JDClientInfoSystem\ApplicationCore\bin\Debug\net5.0\ApplicationCore.deps.json
+C:\Users\DAN\source\repos\JDClientInfoSystem\ApplicationCore\bin\Debug\net5.0\ApplicationCore.runtimeconfig.json
+C:\Users\DAN\source\repos\JDClientInfoSystem\ApplicationCore\bin\Debug\net5.0\ApplicationCore.runtimeconfig.dev.json
+C:\Users\DAN\source\repos\JDClientInfoSystem\ApplicationCore\bin\Debug\net5.0\ApplicationCore.dll
+C:\Users\DAN\source\repos\JDClientInfoSystem\ApplicationCore\bin\Debug\net5.0\ref\ApplicationCore.dll
+C:\Users\DAN\source\repos\JDClientInfoSystem\ApplicationCore\bin\Debug\net5.0\ApplicationCore.pdb
+C:\Users\DAN\source\repos\JDClientInfoSystem\ApplicationCore\obj\Debug\net5.0\ApplicationCore.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DAN\source\repos\JDClientInfoSystem\ApplicationCore\obj\Debug\net5.0\ApplicationCore.AssemblyInfoInputs.cache
+C:\Users\DAN\source\repos\JDClientInfoSystem\ApplicationCore\obj\Debug\net5.0\ApplicationCore.AssemblyInfo.cs
+C:\Users\DAN\source\repos\JDClientInfoSystem\ApplicationCore\obj\Debug\net5.0\ApplicationCore.csproj.CoreCompileInputs.cache
+C:\Users\DAN\source\repos\JDClientInfoSystem\ApplicationCore\obj\Debug\net5.0\ApplicationCore.dll
+C:\Users\DAN\source\repos\JDClientInfoSystem\ApplicationCore\obj\Debug\net5.0\ref\ApplicationCore.dll
+C:\Users\DAN\source\repos\JDClientInfoSystem\ApplicationCore\obj\Debug\net5.0\ApplicationCore.pdb
+C:\Users\DAN\source\repos\JDClientInfoSystem\ApplicationCore\obj\Debug\net5.0\ApplicationCore.genruntimeconfig.cache
